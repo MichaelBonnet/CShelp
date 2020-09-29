@@ -1,5 +1,10 @@
 // Java program to find first 
-// and last character of a string 
+// and last character of a string
+
+// Done in September 2020, helping a friend who is a young high schooler
+// in advanced CS programs and looking towards the field as a long-term career.
+// I don't do too much in Java nowadays, so despite it being fairly low-level stuff,
+// it keeps me sharp.
 
 // Need scanner for capturing input
 import java.util.Scanner;
